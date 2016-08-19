@@ -7,3 +7,5 @@ These are the files that interface to the Scalextric track as used at Strata Lon
 *  test-connection.py: the script used to test connection to Riak TS from the RPi
 *  create-table.py:  the script to create the table and set up the primary keys
 *  Strata Lap Times.ipynb:  The jupyter notebook to show the leader board
+
+In response to request to use the demo at the Erlang Users Conference in Stockholm, September 2016, added the file EUC-race.py which handles cars on both lanes.
