@@ -1,6 +1,6 @@
 # strata-cars
 
-These are the files that interface to the Scalextric track as used at Strata London.
+These are the files that interface to the Scalextric track as used at Strata London.  An overview of the initial, single car demo can be read [here:](http://basho.com/posts/technical/how-we-built-an-electric-racing-demo-showcasing-the-potential-of-riak-ts/).
 
 *  race.py:  the script used to capture lap times and write them to the Riak TS instance
 *  test6a.py:  the script used to test the limit switch set-up
